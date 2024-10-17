@@ -8,7 +8,7 @@ Release:	5
 Summary:	Calculate Gradients Between Multiple Numbers
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/Math/%{upstream_name}-%{upstream_version}.tgz
 
 BuildRequires:	perl-devel
